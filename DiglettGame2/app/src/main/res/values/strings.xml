@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DiglettGame2</string>
+    <string name="点击开始">点击开始</string>
+    <string name="description">分数描述</string>
+</resources>

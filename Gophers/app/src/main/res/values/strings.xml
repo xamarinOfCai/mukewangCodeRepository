@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GophersGame</string>
+    <string name="点击开始">btn_start</string>
+    <string name="description">分数说明</string>
+</resources>
